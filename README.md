@@ -13,6 +13,10 @@ Search, create, update, and delete data entries using a convenient UI. Create co
 
 ## Deployment
 
+### Hostinger
+
+[![Deploy on Hostinger](https://assets.hostinger.com/vps/deploy.svg)](https://www.hostinger.com/vps/docker-hosting?compose_url=https://github.com/motor-admin/motor-admin/)
+
 ### Heroku
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/motor-admin/motor-admin-heroku)
